@@ -1,4 +1,4 @@
-#Burp Suite + Claude Code MCP Setup
+Burp Suite + Claude Code MCP Setup
 
 A simple installer for connecting Claude Code to Burp Suite Professional through the Burp MCP server.
 
